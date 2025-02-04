@@ -13,3 +13,7 @@
 -git commit -m "mensagem": commitar com mensagem as alterações feitas
 
 - git log: exibe o historico de commits no repositorio 
+
+- git pull origin main: executa o pull baixando as alterações para repositorio legal
+
+- git remote add Endereço_repositorio: adiciona o repositorio remoto como referencia para o local
